@@ -1,6 +1,7 @@
 echo "enter 3 numbers"
 read a
-read b
+read bit remote add origin
+
 read c
 if [ $a -gt $b ]
 then
